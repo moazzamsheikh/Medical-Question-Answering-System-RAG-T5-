@@ -53,7 +53,7 @@ pip install pandas transformers datasets sentence-transformers faiss-cpu torch s
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/medical-qa-system.git
+git clone https://github.com/moazzamsheikh/Medical-Question-Answering-System-RAG-T5-
 cd medical-qa-system
 ```
 
@@ -222,7 +222,7 @@ Contributions are welcome! Please:
 4. Push to the branch (`git push origin feature/xyz`).
 5. Open a pull request.
 
-Report issues or suggest features via [GitHub Issues](https://github.com/your-username/medical-qa-system/issues).
+Report issues or suggest features via [GitHub Issues](https://github.com/moazzamsheikh/Medical-Question-Answering-System-RAG-T5-/issues).
 
 ## License
 [MIT License](LICENSE)
